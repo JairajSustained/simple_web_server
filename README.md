@@ -13,7 +13,7 @@ This is a basic web server built with Go that demonstrates handling HTTP request
 Make sure you have Go installed on your system. Then clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/simple_web_server.git
+git clone https://github.com/JairajSustained/simple_web_server.git
 cd simple_web_server
 ```
 
